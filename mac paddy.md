@@ -1,7 +1,10 @@
-# mac-paddy
-A 6 key macro-pad with an EC11 Rotary Encoder that is able to control all of the devices sharing my home network. This will make my life a bit easier.
+mac paddy
 
-## Parts List:
+
+
+Parts List:
+
+
 
 1\. MCU - XIAO ESP32-C6 **Buy Link: https://robu.in/product/seeed-studio-xiao-esp32c6/ Documentation: https://www.seeedstudio.com/Seeed-Studio-XIAO-ESP32C6-p-5884.html**
 
