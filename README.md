@@ -3,7 +3,7 @@ A 6 key macro-pad with an EC11 Rotary Encoder that is able to control all of the
 
 ## Parts List:
 
-1\. MCU - XIAO ESP32-C6 **Buy Link: https://robu.in/product/seeed-studio-xiao-esp32c6/ Documentation: https://www.seeedstudio.com/Seeed-Studio-XIAO-ESP32C6-p-5884.html**
+1\. MCU - XIAO ESP32-S3 **Buy Link: https://robocraze.com/products/seeed-studio-xiao-esp32-s3-development-board-supports-wi-fi-bluetooth-5-0?variant=47775391645920&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic Documentation: https://www.seeedstudio.com/Seeed-Studio-XIAO-ESP32C6-p-5884.html**
 
 2\. Switches - Akko V5 Creamy Blue Pro Switch **Buy Link: https://stackskb.com/store/akko-v5-creamy-blue-pro-switch-pack-of-45/**
 
