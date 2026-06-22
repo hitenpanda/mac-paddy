@@ -1,0 +1,61 @@
+PCB statistics report
+=====================
+- Date: 6/21/2026 12:57:11 PM
+- Project: mac_paddy
+- Board name: mac_paddy
+
+Board
+-----
+- Width: 100.0760 mm
+- Height: 74.9300 mm
+- Area: 6439.208 mm²
+- Front copper area: 600.705 mm²
+- Back copper area: 502.611 mm²
+- Min track clearance: 0.2000 mm
+- Min track width: 0.2000 mm
+- Min drill diameter: 0.3000 mm
+- Board stackup thickness: 1.6000 mm
+
+- Front footprint area: 2005.665 mm²
+- Back footprint area: 542.688 mm²
+- Front component density: 31.15 %
+- Back component density: 8.43 %
+Pads
+----
+- Through hole: 37
+- SMD: 49
+- Connector: 0
+- NPTH: 22
+- Castellated: 0
+- Press-fit: 0
+
+Vias
+----
+- Through vias: 25
+- Blind vias: 0
+- Buried vias: 0
+- Micro vias: 0
+
+Components
+----------
+
+|              | Front Side | Back Side | Total |
+|--------------|------------|-----------|-------|
+|THT:          |         15 |         0 |    15 |
+|SMD:          |          0 |         6 |     6 |
+|Unspecified:  |          6 |         2 |     8 |
+|Total:        |         21 |         8 |    29 |
+
+Drill holes
+-----------
+
+| Count | Shape |    X Size |    Y Size | Plated | Via/Pad | Start Layer | Stop Layer |
+|-------|-------|-----------|-----------|--------|---------|-------------|------------|
+|    25 | Round | 0.3000 mm | 0.3000 mm |    PTH |     Via |        F.Cu |       B.Cu |
+|    14 | Round | 0.8000 mm | 0.8000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|    12 | Round | 1.7500 mm | 1.7500 mm |   NPTH |     Pad |        F.Cu |       B.Cu |
+|    12 | Round | 1.5000 mm | 1.5000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     9 | Round | 1.0000 mm | 1.0000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     6 | Round | 4.0000 mm | 4.0000 mm |   NPTH |     Pad |        F.Cu |       B.Cu |
+|     4 | Round | 3.2000 mm | 3.2000 mm |   NPTH |     Pad |        F.Cu |       B.Cu |
+|     2 |  Slot | 2.8000 mm | 1.5000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
