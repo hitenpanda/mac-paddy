@@ -13,7 +13,7 @@ A 6 key macro-pad with an EC11 Rotary Encoder that is able to control all of the
 
 5\. Diodes - 1N4148 Fast Switching Diodes **Buy Link: https://hubtronics.in/1002?search=1n4148**
 
-6\. Screen - 0.91" OLED Display **Buy Link: https://robu.in/product/0-91-inch-128x32-i2c-iic-serial-blue-oled-lcd-display-module/**
+6\. Screen - 0.91" OLED Display **Buy Link: https://robu.in/product/0-91-inch-128x32-i2c-iic-serial-blue-oled-lcd-display-module/ **
 
 7\. Screws - M3x16mm screws **Buy Link: https://robokits.co.in/robot-parts/nut-bolts-standoffs/mushroom-head-bolts/m3-x-16-mm-ss-bolt-precision-stainless-steel-304-moq-25-pcs**
 
