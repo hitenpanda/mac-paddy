@@ -61,7 +61,7 @@ while True:
             layer_label.text = "Layer: LED Config" if current_layer == 1 else "Layer: LAPTOP"
             mode_label.text = "Knob: LED BRGT" if current_layer == 1 else "Knob: VOL / BRGT"
             
-            elif current_layer == 0:
+        elif current_layer == 0:
                 if pressed:
                     if key_idx == 0:
                         kbd.send(Keycode.CONTROL, Keycode.C)
